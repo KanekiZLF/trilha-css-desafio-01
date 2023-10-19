@@ -6,6 +6,10 @@ body {
     background: black;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 h2 {
     font-size: 2rem;
     color: #33A8DB;
